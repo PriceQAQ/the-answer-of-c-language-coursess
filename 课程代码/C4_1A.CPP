@@ -3,8 +3,8 @@ int main()
 {
 	int a[10];
 	int i,max;
-freopen("C4_1A.in", "r", stdin);
-freopen("C4_1A.out", "w", stdout);
+//freopen("C4_1A.in", "r", stdin);
+//freopen("C4_1A.out", "w", stdout);
 	for (i=0;i<10;i++)
 		scanf("%d",&a[i]);
 	//*********************************
