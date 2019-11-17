@@ -1,8 +1,11 @@
 #include<stdio.h>
+int i,j,k;
 int a,b;
 int temp;
 int main (){
 	scanf("%d%d",&a,&b);
+	i=a;
+	j=b;
 	if(a<b)
 	{
 		temp=a;
@@ -16,7 +19,8 @@ int main (){
 		b=temp;
 		temp=a%b; 
 	}
-	printf("%d\n",b);
+	k=i*j/b;
+	printf("%d",k);
 	return 0;
 }
-//求最小公倍数即为两个数的乘积除以最小公倍数 
+
