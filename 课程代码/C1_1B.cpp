@@ -4,7 +4,7 @@ int main()
 {
 	int R;
     double volume;
-	freopen("C1_1B.in", "r", stdin);
+	//freopen("C1_1B.in", "r", stdin);
 	//freopen("C1_1B.out", "w", stdout);
 	//************************************************
 scanf("%d",&R);

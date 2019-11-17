@@ -4,7 +4,7 @@ int main()
 {
 	int R,H;
     double Surface_area;
-	freopen("C1_1C.in", "r", stdin);
+	//freopen("C1_1C.in", "r", stdin);
 	//freopen("C1_1C.out", "w", stdout);
 	//************************************************
 scanf("%d",&R);

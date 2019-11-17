@@ -8,9 +8,8 @@ int main()
     //freopen("C1_1A.out", "w", stdout);
 	//******************************************* 
 scanf("%d",&R);
- float ss;
-ss = PI * R* R ;
- printf("ss=%.3f",ss);
+area = PI * R* R ;
+ printf("%.3f",area);
 	//================================================
 	return 0;
 }
