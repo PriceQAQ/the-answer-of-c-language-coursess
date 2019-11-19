@@ -10,4 +10,5 @@ return 0;
 int max (int a,int b){
 int result=0;
 result = (a>b?a:b);
+return result;
 }
